@@ -1,18 +1,12 @@
 {
-    "bot_token": "MTIwMTE2ODUwMjI1NDQ2OTEyMA.GC-bZt.4yVLSJ20k1rq_1db-kJpCsHqvLJzTnLllq0Td8",
-    "capmonster_key": "cbb927d38b3ff83f3742d28d02b62577",
+    "bot_token": "",
+    "capmonster_key": "HERE → https://capmonster.cloud/fr/#plans",
     "proxyless": true,
     "change_server_nick": true,
     "guildID": "",
-    "ownerID": [
-        1205243826717855845,
-        1205243826717855845
-    ],
-    "adminID": [
-        1205243826717855845,
-        1205243826717855845
-    ],
-    "order_log_webhook": "https://discord.com/api/webhooks/1204893826326466690/vMK262ZweNGXkp7uWvR3boeDiAfPzOTbednSNiE7EmSwBz2dOrF6v6Ou0ansnVrwZJy3",
-    "boost_log_webhook": "https://discord.com/api/webhooks/1204893826326466690/vMK262ZweNGXkp7uWvR3boeDiAfPzOTbednSNiE7EmSwBz2dOrF6v6Ou0ansnVrwZJy3",
-    "boost_failed_log_webhook": "https://discord.com/api/webhooks/1204893826326466690/vMK262ZweNGXkp7uWvR3boeDiAfPzOTbednSNiE7EmSwBz2dOrF6v6Ou0ansnVrwZJy3"
+    "ownerID": [],
+    "adminID": [],
+    "order_log_webhook": "",
+    "boost_log_webhook": "",
+    "boost_failed_log_webhook": ""
 }
